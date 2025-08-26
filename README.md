@@ -206,6 +206,6 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
+**Built with ❤️ by [Aidh Amira](https://github.com/spalverine)**
 
 _Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
