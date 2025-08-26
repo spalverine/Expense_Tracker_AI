@@ -40,7 +40,7 @@ export default async function HomePage() {
                     <span className='text-white text-sm sm:text-lg'>👋</span>
                   </div>
                   <h2 className='text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-gray-100'>
-                    Welcome Back, {user.firstName}!
+                    Welcome, {user.firstName}!
                   </h2>
                 </div>
                 <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400 mb-4 sm:mb-6 max-w-md mx-auto sm:mx-0'>
